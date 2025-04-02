@@ -36,4 +36,4 @@ Alternatively, you can visit the live version of the site hosted on GitHub Pages
 Feel free to explore the project and get in touch!
 
 ## 📧 Contact:
-For any inquiries, please contact me via the contact form or through my email: bruno.fariasd1@gmail.com
+For any inquiries, please contact me via the contact form or through my email: [bruno.fariasd1@gmail.com].
